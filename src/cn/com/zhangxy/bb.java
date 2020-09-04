@@ -1,0 +1,14 @@
+package cn.com.zhangxy;
+
+public class bb {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("sdfd");
+
+	}
+
+}
